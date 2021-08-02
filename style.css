@@ -639,3 +639,7 @@ img::selection {
     width: 150px;
     height: 36px;
 }
+
+.rewards {
+    max-width: 60px;
+}
